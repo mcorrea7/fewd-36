@@ -13,7 +13,7 @@ a {
 }
 
 .links {
-	font-size: 20px;
+	font-size: 18px;
 	text-align: center;
 	display: inline;
 	padding:18px;
@@ -22,7 +22,7 @@ a {
 }
 
 body {
-	width: 500px;
+	width: 600px;
 	margin: auto;
 }
 
@@ -35,7 +35,7 @@ body {
 }
 
 .section {
-	width: 500px;
+	width: 600px;
 	margin-bottom: 10px;
 }
 
@@ -48,6 +48,7 @@ body {
 p {
 	font-family: 'Roboto', sans-serif;
 	font-size: 20px;
+	padding-left: 6px;
 }
 
 /*IMAGES*/
