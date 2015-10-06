@@ -13,9 +13,10 @@ a {
 }
 
 .links {
+	font-size: 20px;
 	text-align: center;
 	display: inline;
-	padding: 30px;
+	padding:18px;
 	margin: 0;
 
 }
@@ -44,6 +45,10 @@ body {
 	margin: 0; 
 }
 
+p {
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+}
 
 /*IMAGES*/
 
